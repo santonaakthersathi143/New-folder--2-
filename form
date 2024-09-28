@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h3>personal detail></h3> 
+<form>
+ <fieldset>
+<legand><h3>personal form</h3></legand>
+ <label>name</label><br>
+<input type="text"> <br>
+<input type="date">   
+<label>age</label><br>
+<input type="number"><br>
+<label>gender</label><br>
+<input type="radio" name="gender" value="female" >female<br>
+<input type="radio"  name="gender" value="male">male<br>
+<label>favourite city </label><br>
+<input type="checkbox">japan<br>
+<input type="checkbox">korea<br>
+<button>submit</button>
+<input type="text" placeholder="cilck here">
+ </fieldset>   
+</form>
+</body>
+</html>
